@@ -1,1 +1,47 @@
+Steps Involved in the Development:
+--------------------------------------
+Ideation - Triage - 
 
+1. Project Initiation & Scoping
+Understand Objectives & Requirements:
+Clearly define what the data engineering project aims to achieve, the business problem it solves, and the specific requirements, according to Wissen Technology, which is a critical first step for success. 
+Identify Stakeholders:
+Determine who the project's stakeholders are, understand their needs and expectations, and involve them in defining the project's scope. 
+Conduct a Feasibility Study:
+Evaluate the technical and business feasibility of the project, assessing potential risks and the viability of the project's goals. 
+
+2. Data & Technical Planning
+Data Assessment & Discovery:
+Identify and understand the available data sets, determine data quality, and assess their suitability for the project's goals. 
+High-Level Technical Design:
+Create a conceptual design that outlines the overall data architecture, including how data will be acquired, processed, stored, and consumed, according to Monte Carlo Data. 
+Data Availability & Sources:
+Plan how data will be obtained, processed, and made available, ensuring that necessary data sources are identified and accessible. 
+
+3. Resource & Infrastructure Setup
+Resource Planning:
+Forecast the resources required for the project, including the necessary tools, platforms, and expertise, to ensure that there are no resource gaps. 
+Infrastructure Setup:
+Establish the basic project infrastructure, which may include setting up development environments, version control systems, and basic data pipelines or platforms. 
+Establish a Risk Plan:
+Create a risk management plan to identify potential obstacles, especially external factors that could impact the project, and define how they will be addressed, notes the Office of Information Technology Services. 
+
+4. Defining the Triage Framework
+Define Triage Criteria:
+Establish clear criteria for categorizing issues based on type, severity, and business priority, which will be used in the subsequent triage process. 
+Document the Triage Process:
+Create a documented procedure for how issues will be reported, prioritized, assigned, and resolved, which includes defining responsibilities and schedules.
+
+#1. Problem statement,
+#2. Listing out the functionalities,
+#3. Coming-up with Draft proposal,
+#4. Tools and Technologies - addressing the capability to solve the problem,
+#5. Grooming session - Understanding documents - Presentation - MoM
+#6. Changes - on the Docuemnt - Grooming session - Cycle back,
+#7. Listing down Tools and Technologies - Advocate the pros and cons
+#8. Get Approval internal and external from stakeholders
+#9. Architecture diagram / System flow Diagram
+#10. Approval -  Versioning 
+#11. High level Design - Versioning 
+#12. Low level Design  - Versioning 
+#13. 
