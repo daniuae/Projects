@@ -1,0 +1,124 @@
+Top Trending ETL Project Topics (2024–2025)
+Perfect for portfolio, resume, interviews, or GitHub projects.
+
+Real-Time ETL with Kafka → Spark Structured Streaming → Delta Lake
+Use cases:
+Real-time transactions ingestion
+Fraud detection
+Live dashboards
+Highlights:
+Kafka consumer ETL
+Data cleansing + enrichment
+Write to Delta Lake in Bronze → Silver → Gold layers
+
+GenAI Data Pipeline — Chunking, Embeddings & Vector Store ETL (RAG Pipeline)
+Stages:
+Extract PDFs, docs
+Chunk text using PySpark / Scala UDFs
+Create embeddings (OpenAI / HuggingFace / AWS Bedrock)
+Load into Vector DB (FAISS / Pinecone / Elasticsearch)
+Highly demanded project skill today.
+
+ETL for Large-Scale Document Metadata Classification
+What you build:
+ETL to extract metadata from PDFs
+Use Spark NLP (Scala) for:
+✔ NER
+✔ Regex extraction
+✔ Classification
+Load curated data into Data Warehouse / Lakehouse
+
+CDC (Change Data Capture) ETL Pipeline — Debezium / Kafka → Spark → Delta
+Scenario:
+MySQL / Postgres real-time change logs
+Transform using Spark
+Maintain SCD Type 2 tables in Delta
+DevOps + Data Engineering favorite.
+
+IoT ETL Pipeline — MQTT / Kafka → Spark Streaming → Time-Series Store
+Use cases:
+Energy meters
+Vehicle telemetry
+Smart home sensors
+Tech:
+Spark Structured Streaming
+TimescaleDB / InfluxDB
+Aggregations at 1-sec or 1-min resolution
+
+Retail Sales Analytics ETL with SCD Type 2
+Pipeline includes:
+Inventory ingestion
+Customer dimension
+Product dimension
+Sales fact
+SCD Type 1 and 2 implementation in Scala
+Classic project asked in interviews.
+
+Social Media ETL — Twitter/Reddit → Spark → Sentiment + Topic Modeling
+Tasks:
+Extract comments/posts
+Clean & tokenize
+Use LDA / embeddings for topic modeling
+Load analytics-ready data
+
+Enterprise Log Processing ETL with Spark
+Extract logs from:
+Nginx
+CloudTrail
+Application logs
+Perform:
+Sessionization
+Error classification
+Outlier detection
+
+Financial ETL — Credit Card Fraud Detection Pipeline
+ETL steps:
+Ingest transaction data
+Apply feature engineering in Spark
+Encode categorical values
+Write curated data for ML model training
+
+ Healthcare ETL — HL7 / FHIR → Spark → Delta Warehouse
+Typical tasks:
+Parse HL7 messages
+Standardize using FHIR schema
+Clean sensitive fields
+Produce analytics tables
+
+ Image ETL Pipeline (Spark + MLlib + Cloud Storage)
+Steps:
+Extract images from Cloud Storage
+Resize / normalize / classify
+Store results in Delta / PostgreSQL
+Works well for:
+Defect detection
+Medical imaging metadata pipelines
+
+E-commerce Recommendation ETL Pipeline
+Includes:
+Clickstream ingestion
+User-product interactions
+Feature creation for ALS model
+Curated output for recommendation engine
+
+ETL for GenAI Dataset Preparation
+One of the hottest topics now:
+Cleaning large textual datasets
+Deduplication
+Token filtering
+Dataset splitting
+Preparing training-ready corpora for LLM fine-tuning
+
+ Shortlist of the Most Impressive ETL Projects for Your Resume
+If you want only the top ones:
+ Must-Have (Modern)
+Real-Time Kafka → Spark → Delta ETL
+RAG Embeddings Pipeline (Chunking + Metadata ETL)
+CDC Pipeline with SCD2 (Debezium + Spark)
+Log Processing ETL with Spark
+GenAI Dataset Preparation ETL
+ Strong Classic Data Engineering
+Retail Sales ETL with SCD2
+IoT Streaming ETL
+ML Feature Engineering ETL Pipeline
+
